@@ -1,1 +1,1 @@
-
+Referencia: https://app.letsdefend.io/training/lesson_detail/creating-virtual-machine-for-dynamic-analysis
